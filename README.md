@@ -5,15 +5,15 @@ Business Intelligence final challenge from Minsait training
 Proposta: formação completa de um trabalho de Business Intelligence, usando 
   . GitHub como local de armazenamento/histórico, 
   . Gitpod e Jupyter Notebook como notebooks online, 
-  . Docker para rodar o que for necessário, 
+  . Docker, 
   . Shell scrips para automatizar subida de arquivos e demais atividades repetitivas,
-  . Hive para colocar dados em hdfs, 
+  . Hive-Server, 
   . Power BI para criar visualizações gráficas dos dados.
 
 Enunciado
   Atividade Desafio Final
 Prof Caiuá França
-•
+
 31 de mar.
 100 pontos
 Data de entrega: 8 de abr.
