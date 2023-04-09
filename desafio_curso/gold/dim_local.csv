@@ -1,0 +1,434 @@
+pk_local;city;country;state;region_code;region_name
+10027381;Tumwater;US;WA;1;Western
+10021139;Livonia;US;MI;4;Central
+10000478;Little Rock;US;AR;2;Southern
+10006846;Modesto;US;CA;1;Western
+10025269;Overland Park;US;KS;4;Central
+10000469;Montreal;CA;QU;0;Canada
+10019150;Jacksonville;US;FL;2;Southern
+10018644;Overland Park;US;KS;4;Central
+10027572;Elma;US;NY;3;Northeast
+10026268;Surrey;CA;BC;0;Canada
+10019410;Edmonton;CA;AB;0;Canada
+10026299;Dallas;US;TX;2;Southern
+10006805;Miami;US;FL;2;Southern
+10025300;West Sayville;US;NY;3;Northeast
+10019400;Valparaiso;US;IN;4;Central
+10012226;Troy;US;MI;4;Central
+10000475;Charlotte;US;NC;2;Southern
+10008134;Petersburg;US;VA;3;Northeast
+10025287;Brookfield;US;WI;4;Central
+10023509;Tampa;US;FL;2;Southern
+10027050;Milwaukie;US;WI;4;Central
+10000458;Saginaw;US;MI;4;Central
+10020446;Pontiac;US;MI;4;Central
+10025052;Songtan SI;AU;Não informado;5;International
+10009669;Não informado;UK;Não informado;5;International
+10015783;Philadelphia;US;PA;3;Northeast
+10002746;Bensonville;US;IL;4;Central
+10017553;Ottawa;US;KS;4;Central
+10025560;Cramerton;US;NC;2;Southern
+10024541;Bedford;US;OH;4;Central
+10010935;Sioux Center;US;IA;4;Central
+10025284;Hayward;US;CA;1;Western
+10021472;Surrey;CA;BC;0;Canada
+10017585;Milwaukie;US;WI;4;Central
+10021223;Wayne;US;MI;4;Central
+10000481;Chicago;US;IL;4;Central
+10021986;Livonia;US;MI;4;Central
+10021485;Hamel;US;MN;4;Central
+10025549;Shady Grove;US;PA;3;Northeast
+10007355;Amarillo;US;TX;2;Southern
+10023489;Sacramento;US;CA;1;Western
+10025285;Chattanooga;US;TN;2;Southern
+10020639;Tulsa;US;OK;2;Southern
+10023003;Coldwater;US;MI;4;Central
+10022423;Cincinnati;US;OH;4;Central
+10025814;Houston;US;TX;2;Southern
+10009623;Gretna;US;LA;2;Southern
+10023516;Miami;US;FL;2;Southern
+10009631;Corona;US;CA;1;Western
+10023212;Medford;US;OR;1;Western
+10021459;Olive Branch;US;MS;2;Southern
+10006848;Fredericksburg;US;VA;3;Northeast
+10019909;Shawano;US;WI;4;Central
+10020413;Okarche;US;OK;2;Southern
+10020962;Mercer;US;PA;3;Northeast
+10009652;Valcourt;CA;QU;0;Canada
+10015011;SE-132 28 Saltsjo-Boo;AU;Não informado;5;International
+10013252;Irving;US;TX;2;Southern
+10025508;Moncton;CA;NB;0;Canada
+10019678;Sacramento;US;CA;1;Western
+10018603;Dubai;UK;Não informado;5;International
+10016303;Buffalo;US;NY;3;Northeast
+10012234;Hayward;US;CA;1;Western
+10025583;Nesquehoning;US;PA;3;Northeast
+10022687;Burnaby;CA;BC;0;Canada
+10024006;Columbiana;US;OH;4;Central
+10003720;Hermitage;US;PA;3;Northeast
+10020663;Sparks;US;NV;1;Western
+10025769;Redding;US;CA;1;Western
+10009697;Orlando;US;FL;2;Southern
+10025304;Não informado;UK;Não informado;5;International
+10012761;Cali;UK;Não informado;5;International
+10010906;Frederick;US;MD;3;Northeast
+10025495;Birmingham;US;AL;2;Southern
+10021145;Brookhaven;US;MS;2;Southern
+10000460;Goodlettsville;US;TN;2;Southern
+10020715;Linares (Jaen);UK;Não informado;5;International
+10023715;Plainfield;US;IN;4;Central
+10020393;Fort Collins;US;CO;1;Western
+10010884;Boucherville;CA;QU;0;Canada
+10010914;Overland Park;US;KS;4;Central
+10009356;Cape Girardeau;US;MO;4;Central
+10016549;Jacksonville;US;FL;2;Southern
+10018877;Beirut;AU;Não informado;5;International
+10011979;4100 Porto;UK;Não informado;5;International
+10027348;Tampa;US;FL;2;Southern
+10017290;Bogota;UK;Não informado;5;International
+10000461;Boucherville;CA;QU;0;Canada
+10008596;Springhill;US;LA;2;Southern
+10025791;Prineville;US;OR;1;Western
+10011198;Framingham;US;MA;3;Northeast
+10015030;Anchorage;US;AK;1;Western
+10011521;Okolona;US;MS;2;Southern
+10013238;Janesville;US;WI;4;Central
+10004256;Portland;US;OR;1;Western
+10010912;Fort Smith;US;AR;2;Southern
+10011981;Missoula;US;MT;1;Western
+10002765;Hialeah;US;FL;2;Southern
+10004255;Seoul;AU;Não informado;5;International
+10006836;Quito;UK;Não informado;5;International
+10020931;Bozeman;US;MT;1;Western
+10027560;Odessa;US;TX;2;Southern
+10009647;Sacramento;US;CA;1;Western
+10009606;Kilsyth;UK;Não informado;5;International
+10014546;Phoenix;US;AZ;1;Western
+10025238;San Diego;US;CA;1;Western
+10020672;N-0598 Oslo;IR;Não informado;5;International
+10000471;Jeddah;AU;Não informado;5;International
+10022201;Carcas;UK;Não informado;5;International
+10019105;Mechanicsville;US;VA;3;Northeast
+10027583;Morton;US;IL;4;Central
+10015275;Marshfield;US;WI;4;Central
+10016588;Schertz;US;TX;2;Southern
+10011724;Ingersoll;CA;ON;0;Canada
+10023241;North Little Rock;US;AR;2;Southern
+10010886;Libby;US;MT;1;Western
+10011997;Roanoke;US;VA;3;Northeast
+10018146;Fort Macleod;CA;AB;0;Canada
+10014264;Springfield;US;MO;4;Central
+10016548;Mobile;US;AL;2;Southern
+10021203;Costa Mesa;US;CA;1;Western
+10025243;Longview;US;TX;2;Southern
+10021668;Independence;US;MO;4;Central
+10025289;Fresno;US;CA;1;Western
+10017638;Roanoke;US;VA;3;Northeast
+10026348;Mebane;US;NC;2;Southern
+10016784;Pocahontas;US;IA;4;Central
+10019420;Ruwi;IR;Não informado;5;International
+10018665;Wester Chester;US;PA;3;Northeast
+10015495;Kansas City;US;KS;4;Central
+10025242;Seoul;AU;Não informado;5;International
+10023471;Odessa;US;TX;2;Southern
+10023023;Thief River Falls;US;MN;4;Central
+10009657;Lewiston;US;ME;3;Northeast
+10014803;Grand Rapids;US;MI;4;Central
+10027356;Grand Rapids;US;MN;4;Central
+10002220;Prince George;CA;BC;0;Canada
+10008893;Yakama;US;WA;1;Western
+10009654;Brownsville;US;TX;2;Southern
+10019897;El Paso;US;TX;2;Southern
+10022764;Ocala;US;FL;2;Southern
+10008593;Highland;US;IL;4;Central
+10027082;Edmonton;CA;AB;0;Canada
+10025022;West Midlands;UK;Não informado;5;International
+10014804;Shreveport;US;LA;2;Southern
+10018868;Não informado;AU;Não informado;5;International
+10024248;Portland;US;OR;1;Western
+10007117;Taipei;AU;Não informado;5;International
+10020907;Não informado;UK;Não informado;5;International
+10009679;Meridian;US;MS;2;Southern
+10026868;Valencia;UK;Não informado;5;International
+10025302;Tulsa;US;OK;2;Southern
+10004516;Lighthorne Warwick;UK;Não informado;5;International
+10026522;Fairmount;US;IN;4;Central
+10000456;Edmonton;CA;AB;0;Canada
+10025558;Little Rock;US;AR;2;Southern
+10018867;Flint;US;MI;4;Central
+10006862;Pearl;US;MS;2;Southern
+10025571;Des Moines;US;IA;4;Central
+10014533;Aurora;US;IL;4;Central
+10026606;Dearborn;US;MI;4;Central
+10023780;Asuncion;UK;Não informado;5;International
+10025061;Canton;US;OH;4;Central
+10025249;Memphis;US;TN;2;Southern
+10020192;Sacramento;US;CA;1;Western
+10021158;Surrey;CA;BC;0;Canada
+10020448;Regina;CA;SK;0;Canada
+10023235;Houston;US;TX;2;Southern
+10007564;Cleveland;US;TX;2;Southern
+10007123;Little Rock;US;AR;2;Southern
+10025299;Montreal;CA;QU;0;Canada
+10027370;Madrid;UK;Não informado;5;International
+10010897;Whitehouse;US;TN;2;Southern
+10024003;Benicia;US;CA;1;Western
+10026336;Columbia;US;SC;2;Southern
+10000473;Rancho Cordova;US;CA;1;Western
+10017576;New Orleans;US;LA;2;Southern
+10022431;Vinton;US;VA;3;Northeast
+10014739;Tulsa;US;OK;2;Southern
+10007122;Buda;US;TX;2;Southern
+10024477;Santa Cruz;UK;Não informado;5;International
+10024034;Edmonton;CA;AB;0;Canada
+10013232;Milwaukie;US;WI;4;Central
+10024255;Pontiac;US;MI;4;Central
+10026062;Houston;US;TX;2;Southern
+10022450;Overland Park;US;KS;4;Central
+10025039;Mentor;US;OH;4;Central
+10021231;Middlebury;US;IN;4;Central
+10017072;Chicago;US;IL;4;Central
+10009907;Elizabethtown;US;KY;2;Southern
+10006037;Miami;US;FL;2;Southern
+10019913;Calgary;CA;AB;0;Canada
+10027053;Raleigh;US;IL;4;Central
+10022167;Georgetown;AU;Não informado;5;International
+10018871;Livonia;US;MI;4;Central
+10027119;Não informado;UK;Não informado;5;International
+10009672;Phoenix;US;AZ;1;Western
+10020927;Sidney;US;NE;4;Central
+10023759;Birmingham;US;AL;2;Southern
+10000480;Phoenix;US;AZ;1;Western
+10013509;Joliet;US;IL;4;Central
+10002969;Manassas;US;VA;3;Northeast
+10025264;Tuscon;US;AZ;1;Western
+10025291;Dover;US;OH;4;Central
+10009660;Augusta;US;GA;2;Southern
+10007866;Sao Paulo;UK;Não informado;5;International
+10025771;Waldorf;US;MD;3;Northeast
+10015789;Jeddah;AU;Não informado;5;International
+10025037;San Marcos;US;CA;1;Western
+10025239;Não informado;UK;Não informado;5;International
+10019880;Somerset;US;NJ;3;Northeast
+10021204;Toronto;CA;ON;0;Canada
+10000462;Hazelwood;US;MO;4;Central
+10023244;Cleveland;US;MS;2;Southern
+10019665;Hammond;US;IN;4;Central
+10009676;Kalamazoo;US;MI;4;Central
+10017307;Anjou;CA;QU;0;Canada
+10004245;Portland;US;OR;1;Western
+10025305;Colorado Springs;US;CO;1;Western
+10024009;Tulsa;US;OK;2;Southern
+10021175;Johnson City;US;TN;2;Southern
+10015267;Sollinge Molle;UK;Não informado;5;International
+10017314;El Paso;US;TX;2;Southern
+10026355;Casper;US;WY;1;Western
+10025034;Corona;US;CA;1;Western
+10025246;Winnepeg;CA;MB;0;Canada
+10025251;Wooster;US;OH;4;Central
+10025036;Kansas City;US;MO;4;Central
+10002501;Não informado;UK;Não informado;5;International
+10025552;Southfield;US;MI;4;Central
+10023022;Surrey;CA;BC;0;Canada
+10025038;Mechanicsburg;US;PA;3;Northeast
+10018129;ZI 1 Ducos;IR;Não informado;5;International
+10019388;Ft Collins;US;CO;1;Western
+10002244;Statesville;US;NC;2;Southern
+10014047;Fresno;US;CA;1;Western
+10022490;Overland Park;US;KS;4;Central
+10018363;Panama Rep De Panama;IR;Não informado;5;International
+10009633;Não informado;UK;Não informado;5;International
+10024022;Irvine;US;CA;1;Western
+10025758;Oklahoma City;US;OK;2;Southern
+10022750;Watervliet;US;MI;4;Central
+10000601;Creedmoor;US;NC;2;Southern
+10025023;Saskatoon;CA;SK;0;Canada
+10013188;Charlotte;US;NC;2;Southern
+10004302;Baton Rouge;US;LA;2;Southern
+10008602;Wells;US;ME;3;Northeast
+10012715;Exeter;US;PA;3;Northeast
+10011732;Não informado;UK;Não informado;5;International
+10023793;Holden;US;LA;2;Southern
+10021184;Aurora;US;OR;1;Western
+10009653;Mississauga;CA;ON;0;Canada
+10024550;Appleton;US;WI;4;Central
+10024725;Jasper;US;TX;2;Southern
+10016045;Monroe;US;WI;4;Central
+10023783;Pine Bluff;US;AR;2;Southern
+10025049;Milwaukie;US;OR;1;Western
+10025033;Billings;US;MT;1;Western
+10009642;Joliet;US;IL;4;Central
+10013472;Indianapolis;US;IN;4;Central
+10024999;Andover;US;SD;4;Central
+10007120;Rexburg;US;ID;1;Western
+10022240;Mississauga;CA;ON;0;Canada
+10021418;Wheatridge;US;CO;1;Western
+10023221;Overland Park;US;KS;4;Central
+10019617;Spring;US;TX;2;Southern
+10000453;Não informado;UK;Não informado;5;International
+10010698;Gardena;US;CA;1;Western
+10025241;Hamamatsu City;AU;Não informado;5;International
+10023778;Hillsboro;US;OR;1;Western
+10019942;New Castle;US;IN;4;Central
+10026839;Greenwood;US;MS;2;Southern
+10019879;Duluth;US;GA;2;Southern
+10022732;Lake Hamilton;US;FL;2;Southern
+10008381;Puyallup;US;WA;1;Western
+10026078;Bedford;US;OH;4;Central
+10020449;Santiago;UK;Não informado;5;International
+10014043;Guadalajara Jal Mexico;IR;Não informado;5;International
+10022725;Norcross;US;GA;2;Southern
+10020184;Smyrna;US;TN;2;Southern
+10012425;Oslo;US;MN;4;Central
+10025575;Beamsville;CA;ON;0;Canada
+10024262;Oakland;US;CA;1;Western
+10026532;Garner;US;IA;4;Central
+10002240;Medford;US;MA;3;Northeast
+10013765;St Louis;US;MO;4;Central
+10023703;Istanbul;AU;Não informado;5;International
+10025021;Depere;US;WI;4;Central
+10025237;Oakville;CA;ON;0;Canada
+10021422;Brea;US;CA;1;Western
+10024270;Maxwell;US;CA;1;Western
+10025515;Jackson;US;MS;2;Southern
+10020445;Rapid City;US;SD;4;Central
+10007591;FIN 00710;UK;Não informado;5;International
+10022444;Livonia;US;MI;4;Central
+10014810;Canton;US;OH;4;Central
+10017036;Eagan;US;MN;4;Central
+10018885;Pocatello;US;ID;1;Western
+10018623;Laurel;US;MS;2;Southern
+10006093;Evansville;US;IN;4;Central
+10021911;Tupelo;US;MS;2;Southern
+10007577;Stewartsville;US;NJ;3;Northeast
+10025250;Ooltewah;US;TN;2;Southern
+10025247;Pittsburgh;US;PA;3;Northeast
+10020390;Lansing;US;MI;4;Central
+10024246;East Providence;US;RI;3;Northeast
+10009643;Flint;US;MI;4;Central
+10025025;Auburn;US;WA;1;Western
+10014238;2215 TC Voorhout;IR;Não informado;5;International
+10027340;Salem;US;MA;3;Northeast
+10026006;Calgary;CA;AB;0;Canada
+10025051;Anchorage;US;AK;1;Western
+10022183;Breckenridge;US;CO;1;Western
+10009985;West Jordan;US;UT;1;Western
+10020914;Calhoun;US;LA;2;Southern
+10010887;Edmonton;CA;AB;0;Canada
+10026560;Dearborn;US;MI;4;Central
+10015793;Sacramento;US;CA;1;Western
+"";"";"";"";5;International
+10021415;Indianopolis;US;IN;4;Central
+10010923;Seocho-GU;AU;Não informado;5;International
+10020684;Montgomery;US;AL;2;Southern
+10007121;St Louis Park;US;MN;4;Central
+10023538;Fort Worth;US;TX;2;Southern
+10022434;Placentia;US;CA;1;Western
+10023447;Tulsa;US;OK;2;Southern
+10016047;Nashville;US;TN;2;Southern
+10002489;Villa Rica;US;GA;2;Southern
+10025778;Pomona;US;CA;1;Western
+10021911;Te Rapa Hamilton;US;MS;2;Southern
+10021412;Clackamas;US;OR;1;Western
+10026581;Savannah;US;GA;2;Southern
+10025288;Furstentum;AU;Não informado;5;International
+10007566;St Joseph;US;MO;4;Central
+10002526;EE 0026 Tallinn;UK;Não informado;5;International
+10005043;San Jose;UK;Não informado;5;International
+10023511;Schiphol-Rijk;IR;Não informado;5;International
+10010974;Chippewa Falls;US;WI;4;Central
+10014471;Calgary;CA;AB;0;Canada
+10022746;A 5102 Anthering;UK;Não informado;5;International
+10022168;Cass City;US;MI;4;Central
+10000455;Huntington Beach;US;CA;1;Western
+10017828;Cypress;US;CA;1;Western
+10018371;00-394 Warsaw;UK;Não informado;5;International
+10026009;Não informado;AU;Não informado;5;International
+10014540;1980 Santiago;UK;Não informado;5;International
+10020662;Jakarta Utara;AU;Não informado;5;International
+10025248;Kent;US;WA;1;Western
+10000474;Des Moines;US;IA;4;Central
+10021222;Buffdale;US;UT;1;Western
+10009156;Attica;US;IN;4;Central
+10023760;North Hampton;US;NH;3;Northeast
+10023785;Columbus;US;OH;4;Central
+10024010;Mitchell;US;SD;4;Central
+10025252;Elkhart;US;IN;4;Central
+10009650;La Paz;UK;Não informado;5;International
+10022978;Não informado;UK;Não informado;5;International
+10002709;Albany;US;OR;1;Western
+10026861;Salt Lake City;US;UT;1;Western
+10019664;MOLINE;US;IL;4;Central
+10022730;Warren;US;MI;4;Central
+10025062;Bedford Hills;US;NY;3;Northeast
+10010717;Waterville;US;KS;4;Central
+10025298;Toronto;CA;ON;0;Canada
+10009639;Industriestrasse 17;UK;Não informado;5;International
+10020193;Não informado;UK;Não informado;5;International
+10025063;Não informado;UK;Não informado;5;International
+10020181;D 95326 Kulmbach;UK;Não informado;5;International
+10011734;Atlanta;US;GA;2;Southern
+10013011;112 Reyjavik;AU;Não informado;5;International
+10014779;Fairview;US;NJ;3;Northeast
+10026291;Poplar Bluff;US;MO;4;Central
+10025296;Sun Prairie;US;WI;4;Central
+10026081;Bremen;UK;Não informado;5;International
+10023513;Stockton;US;CA;1;Western
+10002506;Salt Lake City;US;UT;1;Western
+10018580;Beaumont;US;TX;2;Southern
+10021470;Wrightsville;US;PA;3;Northeast
+10021936;Louisville;US;KY;2;Southern
+10022252;Crestwood;US;IL;4;Central
+10014495;Clackamas;US;OR;1;Western
+10019682;Lennox;US;SD;4;Central
+10024524;New Hampton;US;IA;4;Central
+10027575;Dallas;US;TX;2;Southern
+10026843;Tulare;US;CA;1;Western
+10003795;Baton Rouge;US;LA;2;Southern
+10021977;Overland Park;US;KS;4;Central
+10021996;Milton;US;PA;3;Northeast
+10021179;El Cajon;US;CA;1;Western
+10022678;Richmond;US;VA;3;Northeast
+10009863;Beijing 100088;UK;Não informado;5;International
+10000466;North Highlands;US;CA;1;Western
+10008638;Milesburg;US;PA;3;Northeast
+10023275;Portland;US;OR;1;Western
+10017054;Newport;US;MI;4;Central
+10015824;South Bend;US;IN;4;Central
+10024260;Spokane;US;WA;1;Western
+10011398;Eugene;US;OR;1;Western
+10005006;Boise;US;ID;1;Western
+10012422;Saginaw;US;AL;2;Southern
+10025040;San Antonio;US;TX;2;Southern
+10009656;Trinity Center;US;CA;1;Western
+10018628;Tigard;US;OR;1;Western
+10025032;Montreal;CA;QU;0;Canada
+10007309;Não informado;UK;Não informado;5;International
+10016807;Overland Park;US;KS;4;Central
+10010970;Irving;US;TX;2;Southern
+10019900;Sacramento;US;CA;1;Western
+10012235;Winnipeg;CA;MB;0;Canada
+10022456;Rancho Cordova;US;CA;1;Western
+10009885;Winnipeg;CA;MB;0;Canada
+10024743;Enumclaw;US;WA;1;Western
+10019109;Sacramento;US;CA;1;Western
+10010969;Elkhart;US;IN;4;Central
+10016542;Greenville;US;SC;2;Southern
+10022470;Ormond Beach;US;FL;2;Southern
+10024499;Houston;US;TX;2;Southern
+10020915;McHenry;US;IL;4;Central
+10022249;Shelby;US;NC;2;Southern
+Address_Number;City;Country;State;"";""
+10009662;West Point;US;PA;3;Northeast
+10016858;Beaverton;US;OR;1;Western
+10025919;Compton;US;CA;1;Western
+10016564;Traverse City;US;MI;4;Central
+10016609;Winnepeg;CA;MB;0;Canada
+10023524;Clemson;US;SC;2;Southern
+10022755;Johannesburg;AU;Não informado;5;International
+10016334;Overland Park;US;KS;4;Central
+10014469;Livonia;US;MI;4;Central
+10024016;Kanagawa;AU;Não informado;5;International
+10000472;Van Nuys;US;CA;1;Western
+10026521;Quezon City;IR;Não informado;5;International
+10020909;Canton;US;OH;4;Central
